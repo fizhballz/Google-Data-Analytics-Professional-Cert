@@ -1,4 +1,4 @@
-[embed]https://www.coursera.org/account/accomplishments/specialization/certificate/7XQ6TZ26JBUS[/embed]
+![image](https://user-images.githubusercontent.com/78847527/193185409-cac4d7a5-6845-4aae-b493-f02b9adb5241.png)
 
 # Google Data Analytics Professional Certificate
 ## About this Professional Certificate
